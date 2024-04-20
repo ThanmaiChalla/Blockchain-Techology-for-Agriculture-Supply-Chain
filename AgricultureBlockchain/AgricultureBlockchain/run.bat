@@ -1,0 +1,2 @@
+python IOTSimulation.py
+pause
